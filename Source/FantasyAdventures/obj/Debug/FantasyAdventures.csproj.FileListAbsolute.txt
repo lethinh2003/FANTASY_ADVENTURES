@@ -1,0 +1,261 @@
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\FantasyAdventures.exe.config
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\FantasyAdventures.exe
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\FantasyAdventures.pdb
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.AssemblyReference.cache
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.SuggestedBindingRedirects.cache
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.Properties.Resources.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.GenerateResource.cache
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CoreCompileInputs.cache
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.exe
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.pdb
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\ReaLTaiizor.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CopyComplete
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.Landing.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.Login.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\BCrypt.Net-Next.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Buffers.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Memory.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.MainGame.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\Newtonsoft.Json.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\RestSharp.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.CodeDom.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Data.Odbc.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Data.OleDb.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Data.SqlClient.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Diagnostics.EventLog.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Drawing.Common.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.IO.Packaging.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.IO.Ports.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.AccessControl.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Permissions.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.ServiceModel.Syndication.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\bin\Debug\System.Threading.AccessControl.xml
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.exe.licenses
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.Fody.CopyLocal.cache
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.InitialGame.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.StartGame.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.QuestionForm.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.MenuLuaChonGame.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.BangXepHang.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.DanhSachTuVung.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.GameComplete.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.GameOver.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.GameDialog.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.ShopCharacters.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.LuyenTapForm.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.AdminForm.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.AboutForm.resources
+D:\C#\DOAN\GAME\FantasyAdventures\FantasyAdventures\obj\Debug\FantasyAdventures.GuideForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.AssemblyReference.cache
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.SuggestedBindingRedirects.cache
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.AboutForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.AdminForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.BangXepHang.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.DanhSachTuVung.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameComplete.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameDialog.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GameOver.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.GuideForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.InitialGame.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Landing.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Login.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.LuyenTapForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.MainGame.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.MenuLuaChonGame.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.Properties.Resources.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.QuestionForm.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.ShopCharacters.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.StartGame.resources
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.GenerateResource.cache
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.exe
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.pdb
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe.config
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.pdb
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\BCrypt.Net-Next.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\ReaLTaiizor.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\RestSharp.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Buffers.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.CodeDom.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Data.Odbc.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Data.OleDb.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Data.SqlClient.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Diagnostics.EventLog.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Drawing.Common.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.IO.Packaging.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.IO.Ports.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Memory.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.AccessControl.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Permissions.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.ServiceModel.Syndication.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\System.Threading.AccessControl.xml
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CoreCompileInputs.cache
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.Fody.CopyLocal.cache
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CopyComplete
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.exe.manifest
+D:\C#\Game\GAME\FantasyAdventures\bin\Debug\FantasyAdventures.application
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.exe.manifest
+D:\C#\Game\GAME\FantasyAdventures\obj\Debug\FantasyAdventures.application
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\FantasyAdventures.exe.config
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\FantasyAdventures.exe.manifest
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\FantasyAdventures.application
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\FantasyAdventures.exe
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\FantasyAdventures.pdb
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\BCrypt.Net-Next.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\ReaLTaiizor.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\RestSharp.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Buffers.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.CodeDom.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Data.Odbc.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Data.OleDb.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Data.SqlClient.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Diagnostics.EventLog.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Drawing.Common.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.IO.Packaging.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.IO.Ports.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Memory.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Security.AccessControl.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Permissions.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.ServiceModel.Syndication.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\bin\Debug\System.Threading.AccessControl.xml
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.AssemblyReference.cache
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.SuggestedBindingRedirects.cache
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.AboutForm.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.AdminForm.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.BangXepHang.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.DanhSachTuVung.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.GameComplete.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.GameDialog.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.GameOver.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.GuideForm.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.InitialGame.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.Landing.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.Login.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.LuyenTapForm.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.MainGame.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.MenuLuaChonGame.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.Properties.Resources.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.QuestionForm.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.ShopCharacters.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.StartGame.resources
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.GenerateResource.cache
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CoreCompileInputs.cache
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.Fody.CopyLocal.cache
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.exe.manifest
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.application
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CopyComplete
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.exe
+D:\C#\Game\Nhóm Winx xênh đệp_Lê Văn Thịnh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.pdb
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\FantasyAdventures.exe.config
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\FantasyAdventures.exe.manifest
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\FantasyAdventures.application
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\FantasyAdventures.exe
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\FantasyAdventures.pdb
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\BCrypt.Net-Next.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\ReaLTaiizor.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\RestSharp.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Buffers.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.CodeDom.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Data.Odbc.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Data.OleDb.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Data.SqlClient.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Diagnostics.EventLog.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Drawing.Common.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.IO.Packaging.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.IO.Ports.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Memory.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Security.AccessControl.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Permissions.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.ServiceModel.Syndication.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\bin\Debug\System.Threading.AccessControl.xml
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.AssemblyReference.cache
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.SuggestedBindingRedirects.cache
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.AboutForm.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.AdminForm.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.BangXepHang.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.DanhSachTuVung.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.GameComplete.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.GameDialog.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.GameOver.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.GuideForm.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.InitialGame.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.Landing.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.Login.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.LuyenTapForm.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.MainGame.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.MenuLuaChonGame.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.Properties.Resources.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.QuestionForm.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.ShopCharacters.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.StartGame.resources
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.GenerateResource.cache
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CoreCompileInputs.cache
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.Fody.CopyLocal.cache
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.exe.manifest
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.application
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.csproj.CopyComplete
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.exe
+D:\C#\Game\WinxXenhDep_LeVanThinh_Game\Source\FantasyAdventures\obj\Debug\FantasyAdventures.pdb
